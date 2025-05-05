@@ -1,4 +1,4 @@
-**Team 5: Ankita, Swethaa, Karinia**
+ **Team 5: Ankita, Swethaa, Karinia**
 
 # 🧬 Capstone Project: R-based Mass Spectrometry Proteomics Workflow
 
